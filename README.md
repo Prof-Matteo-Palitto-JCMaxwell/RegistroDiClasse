@@ -36,3 +36,4 @@ Un altra cosa che vi chiederei  e' di usare la possibilita' di introdurre commen
 ## Autori
 
 ## Ringraziamenti
+Ringrazio a nome di tutto il gruppo il professore per il supporto che ci dà ad ogni lezione, e anche il nostro coordinatore per sopportare noi collaboratrici
