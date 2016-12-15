@@ -38,4 +38,4 @@ Sara Sgreccia</br>
 ##<b>Ringraziamenti</b>
 
 
-
+Ringrazio a nome di tutto il gruppo il professore per il supporto che ci dà ad ogni lezione e al nostro coordinatore per sopportare noi collaboratrici
