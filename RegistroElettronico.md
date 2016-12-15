@@ -1,27 +1,10 @@
 #<b>Registro elettronico</b>
 ##<b>Descrizione programma</b>
-###Richiesta del cliente
-<p>Siamo una piccola scuola (1 classe sola), e vorremmo trasformare il registro da cartaceo a elettronico. Il registro viene usato per il tracciamento e memorizzazione dei voti di ogni singolo studente. Vorremmo che ci fossero due tipologie distinte di utenti (studenti e professori). I professori hanno la possibilità di consultare le votazioni di tutta la classe per studente e per materia, mentre gli studenti solamente i propri voti per materia. Per entrambi i professori e studenti, per ogni materia, viene visualizzato la media della votazione di tutta la classe. Per entrambi professori e studenti, viene calcolata la media di tutti i voti di tutte le materie per ogni studente e viene indicato la stato: PROMOSSO o A RISCHIO DI BOCCIATURA (naturalmente nel caso l'utente sia uno studente, verrebbero visualizzati solo i dati che lo riguardano). Sarà necessario che i professori possano inserire le votazioni della loro materia. Ogni utente per poter accedere al registro dovrà inserire User Name e PASSWORD. Sarebbe bello, ma non necessario, anche una interfaccia grafica, ma solo se non costasse troppo, perché andrebbe benissimo un interfaccia a linea di comando (da terminale).</P>
-
-Versione 1 avrà interfaccia utente da linea di comando.</br>
-Versione 2 avrà autenticazione con PASSWORD dell'utente.</br>
-Versione 3 (Opzionale) offrirà una interfaccia grafica.</br>
-
-###Domande ulteriori per il cliente
-D1. Quanti utenti possono accedere al registro contemporaneamente?</br> 
-Nella classe c'e' solo un computer da cui accedere al registro, quindi un utente alla volta potrà accedere al registro.
-
-###Specifiche ESTERNE
-E1. Registro Elettronico deve memorizzare in maniera non volatile le votazioni di ogni studente per ogni materia.</br>
-E2. Due tipologie distinte di utenti: studente e professore.</br> 
-E3. Ogni utente studente può vedere la media di tutti gli utenti studente, ma può vedere solo le proprie valutazioni e il proprio stato (Promosso/Rischio di bocciatura).</br>
-E4. Ogni utente professore può vedere i voti e le medie di tutti i gli utenti studente, può aggiungere voti della sua materia e può vedere lo stato di ogni utente studente (Promosso/Rischio di bocciatura).</br>
-E5. Ogni utente avrà un proprio account con username e password.</br>
-E6. L’accesso può essere eseguito da un utente per volta.</br>
-
-###Specifiche INTERNE
-I1. Il Registro Elettronico verrà realizzato usando JAVA come linguaggio di programmazione.</br>
-I2. I dati degli utenti verranno salvati su file.</br>
+Il registro elettronico serve per memorizzare i voti e le medie di ogni singolo studente.
+Ci sono due tipologie:
+- studenti solamente i propri voti,
+- professori possono consultare le votazioni di tutta la classe per studente e per materia.
+Ogni utente per accedere al registro elettronico ha bisogno di un account.
 
 ###Architettura
 - Macro Blocchi
