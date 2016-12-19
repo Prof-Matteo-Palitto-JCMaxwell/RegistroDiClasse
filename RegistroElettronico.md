@@ -5,13 +5,6 @@ Ci sono due tipologie:
 gli studenti possono vedere solo i propri voti, mentre i professori possono consultare le votazioni di tutta la classe per studente e per materia.</br>
 Ogni utente per accedere al registro elettronico ha bisogno di un account.</p>
 
-###Architettura
-- Macro Blocchi
-Interfaccia utente
-Struttura dati
-- Scomposizione in componenti semplici
-I macro blocchi corrispondono ai componenti semplici.
-
 ##<b>Istruzioni di installazione</b>
 Il programma non necessita di installazione.
 
