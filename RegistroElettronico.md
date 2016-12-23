@@ -5,13 +5,6 @@ Ci sono due tipologie:
 gli studenti possono vedere solo i propri voti, mentre i professori possono consultare le votazioni di tutta la classe per studente e per materia.</br>
 Ogni utente per accedere al registro elettronico ha bisogno di un account.</p>
 
-###Architettura
-- Macro Blocchi
-Interfaccia utente
-Struttura dati
-- Scomposizione in componenti semplici
-I macro blocchi corrispondono ai componenti semplici.
-
 ##<b>Istruzioni di installazione</b>
 Il programma non necessita di installazione.
 
@@ -30,6 +23,7 @@ Inserire il proprio username e la propria password.</br>
 <i>3.b. Professore:</i> le voci del menù sono: “Valutazioni studenti” (dove saranno presenti le valutazioni e le medie per ogni materia e lo stato di tutti gli studenti della classe), “Aggiungi valutazione” (dove si potrà aggiungere una valutazione per la propria materia) e “Esci” (ritorna al menù di accesso).</br>
 
 ##<b>Autori</b>
+Teodora Chirila</br>
 Serena D’Ambrosio</br>
 Roberta Gulmini</br>
 Luca Ronca</br>
